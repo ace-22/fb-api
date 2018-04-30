@@ -1,0 +1,112 @@
+
+.coverHeight{
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	background-size:cover;
+	max-height:300px;
+	
+	
+}
+.row-2{
+	margin-top:7.5%;
+	
+}
+.pP{
+	border: 0.5vw solid white;
+    border-radius: 1px;
+    box-shadow: 1px 1px 1px 1px silver;
+	padding:0px;
+	margin-right:0px;
+	margin-left:15px;
+
+	}
+.pPP{
+	
+	padding:5px;
+}
+
+
+.nav-item-1{
+ 	margin-left:16%
+	
+}
+.form-control{
+	height:20vh;
+}
+.btn{
+	float:right;
+}
+.card{
+	margin-top:3%;
+}
+.pic{
+	margin:3.5%;
+}
+.xyz{
+	font-size:1.5rem; 
+	font-style:bold; 
+	color:black;
+}
+.style{
+	color:blue;
+
+}
+.nav-link{
+	color:black;
+}
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+.nav-item-2{
+	margin-right:10px;
+	margin-top:auto; 
+	margin-bottom:auto;
+	margin-left:5px;
+
+}
+.iconadjust{
+	height:2.5rem; 
+	width:2.5rem; 
+	margin-left:10px;
+}
+.textadjust{
+	margin-left:10px;
+}
+#prpxx{
+	height:2rem;
+	width:2rem;
+	margin-right:10px;
+	margin-top:auto;
+	margin-left:auto;
+	margin-bottom:auto;
+
+}
+@media screen and (max-width:795px) and (min-width:475px){
+	.nav-link{
+		font-size:0.8rem;
+	}
+	.card{
+		width:10rem;
+	}
+	.namexxxxx{
+		font-size:0.8rem;
+	}
+}
+@media screen and (max-width:475px){
+	.nav-link{
+		font-size:0.6rem;
+	}
+	.card{
+		width:10rem;
+	}
+	.xyz{
+		font-size:0.9rem;
+	}
+	.namexxxxx{
+		font-size:0.6rem;
+	}
+	
+
+}
